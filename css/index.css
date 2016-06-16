@@ -1,0 +1,99 @@
+/*.index-banner{
+	position:relative;
+	background:#B3B3B3;
+
+}
+.index-banner .index-banner-bg{
+	overflow:hidden;
+}
+
+.index-banner .index-banner-bg img{
+	margin:0 auto;
+}
+*/
+/*菜单*/
+.index-menu{
+	position:relative;
+	height:700px;
+	border-top:4px solid #f34949;
+}
+.music{
+	margin-top:-5px;
+	margin-left:800px;
+}
+.index-menu .menu-tips{
+	position:absolute;
+	left:50%;
+	top:0;
+	margin-left:-50px;
+	width:100px;
+	height:50px;
+	text-align:center;
+	line-height:38px;
+	color:#fff;
+	background:#f34949;
+}
+
+
+.index-menu .menu-tips:after{
+	position:absolute;
+	content:'';
+	left:0;
+	bottom:0;
+	width:0;
+	height:0;
+	border-left:50px solid transparent;
+	border-right:50px solid transparent;
+	border-bottom:10px solid #fff;
+}
+
+.menu-list .navimg{
+	margin-top:48px;
+	margin-bottom:-38px;
+	border:3px solid #f34949;
+}
+
+.index-title-jieshao{
+	margin-left:0px;
+	float:left;
+	margin-top:-13px;
+	position:absolute;
+	width:740px;
+
+	}
+.index-content-jieshao{
+	margin-left:370px;
+	margin-top:30px;
+	position:absolute;
+	width:854px;
+	height:250px;
+	text-align:left;
+	border:1px solid #F34949;
+}
+.index-content-jieshao .more{
+	display:inline;
+	color:#F30C10;
+}
+
+.index-title-jindian{
+	margin-left:0px;
+	float:left;
+	margin-top:300px;
+	position:absolute;
+	width:740px;
+
+	}
+.index-content-jindian{
+	margin-left:370px;
+	margin-top:350px;
+	position:absolute;
+	width:854px;
+	height:254px;
+	text-align:left;
+	border:1px solid #F34949;
+}
+
+.index-content-jindian .jindian{
+	display:inline;
+	color:#F30C10;
+}
