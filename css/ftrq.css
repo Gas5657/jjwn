@@ -1,0 +1,197 @@
+
+/* CSS Document */
+.index-ftrq-menu {
+	position: relative;
+	height: 2200px;
+	width: 1100px;
+	margin: 0 auto;
+	border: 1px solid #f34949;
+}
+
+.menu-back {
+	float: right;
+	height: 163px;
+	width: 895px;
+	border: 1px solid #F90E12;
+	background: url(../image/about.jpg);
+}
+
+.menu-cebian {
+	height: 2200px;
+	width: 202px;
+	background: #EAF0F0;
+	border: 1px solid #F90E12;
+}
+
+.cebian-item { color: #725F5F; }
+
+.item {
+	line-height: 2em;
+	margin-bottom: 20px;
+	text-align: center;
+	color: #725F5F;
+}
+
+.item a:hover { color: #FF0000; }
+
+.item a {
+	padding: 5px;
+	color: #725F5F;
+	border: 1px solid #F90E12;
+}
+
+.item a:hover {
+	text-decoration: underline;
+	background: #f34949;
+	color: #fff;
+}
+
+.cebian-bottom {
+	width: 200px;
+	margin-top: 1480px;
+}
+
+.menu-main { width: 900px; }
+
+.main-title {
+	margin-top: 180px;
+	text-align: center;
+}
+
+.content-image {
+	margin-right: 20px;
+	float: left;
+	margin-left: -36px;
+}
+
+.main-content {
+	width: 800px;
+	margin-left: 50px;
+	margin-top: 14px;
+	text-align: left;
+	line-height: 2em;
+}
+
+.main-title1 {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.content-image1 {
+	margin-top: 20px;
+	margin-right: 20px;
+	float: left;
+	margin-left: -36px;
+}
+
+.main-content1 {
+	width: 800px;
+	margin-left: 50px;
+	margin-top: 6px;
+	text-align: left;
+	line-height: 2em;
+}
+
+.main-title2 {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.content-image2 {
+	margin-top: 20px;
+	margin-right: 20px;
+	float: left;
+	margin-left: -36px;
+}
+
+.main-content2 {
+	width: 800px;
+	margin-left: 50px;
+	margin-top: 6px;
+	text-align: left;
+	line-height: 2em;
+}
+
+.main-title3 {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.content-image3 {
+	margin-top: 20px;
+	margin-right: 20px;
+	float: left;
+	margin-left: -36px;
+}
+
+.main-content3 {
+	width: 800px;
+	margin-left: 50px;
+	margin-top: 6px;
+	text-align: left;
+	line-height: 2em;
+}
+
+.main-title4 {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.content-image4 {
+	margin-top: 20px;
+	margin-right: 20px;
+	float: left;
+	margin-left: -36px;
+}
+
+.main-content4 {
+	width: 800px;
+	margin-left: 50px;
+	margin-top: 6px;
+	text-align: left;
+	line-height: 2em;
+}
+
+.main-title5 {
+	margin-top: 30px;
+	text-align: center;
+}
+
+.content-image5 {
+	margin-top: 20px;
+	margin-right: 20px;
+	float: left;
+	margin-left: -36px;
+}
+
+.main-content5 {
+	width: 800px;
+	margin-left: 50px;
+	margin-top: 6px;
+	text-align: left;
+	line-height: 2em;
+}
+
+.come p {
+	margin-left: 700px;
+	margin-top: 80px;
+}
+
+.cd-image { float: right; }
+
+.iw_poi_title {
+	color: #CC5522;
+	font-size: 14px;
+	font-weight: bold;
+	overflow: hidden;
+	padding-right: 13px;
+	white-space: nowrap
+}
+
+.iw_poi_content {
+	font: 12px arial, sans-serif;
+	overflow: visible;
+	padding-top: 4px;
+	white-space: -moz-pre-wrap;
+	word-wrap: break-word
+}

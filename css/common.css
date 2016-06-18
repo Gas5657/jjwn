@@ -1,6 +1,6 @@
 
 /* CSS Document */
-.public-header { height: 80px; }
+.public-header { height: 67px; }
 
 .public-container {
 	position: relative;
@@ -11,13 +11,13 @@
 
 .public-header .header-logo {
 	float: left;
-	margin-top: 12px;
+	margin-top: 4px;
 }
 
 .public-header .header-logo a {
 	width: 160px;
-	height:54px;
-	background:url(../image/logo.jpg);
+	height: 54px;
+	background: url(../image/logo.jpg);
 }
 
 .public-header .header-nav {
@@ -27,57 +27,54 @@
 
 .public-header .header-nav .item {
 	float: left;
-	margin-top: 36px;
+	margin-top: 28px;
 	margin-left: 35px;
 }
 
-
 .public-header .header-nav a {
-	font-size:18px;
+	font-size: 18px;
 	color: #3b3b3b;
 }
 
-.public-header .header-nav a:hover{
-	text-decoration:underline;
-	background:#f34949;
+.public-header .header-nav a:hover {
+	text-decoration: underline;
+	background: #f34949;
 }
 
 .public-footer {
 	height: 218px;
-	padding-top:100px;
+	padding-top: 100px;
 	background: #3B3B3B;
 }
 
-.public-footer .footer-col{
+.public-footer .footer-col {
 	width: 230px;
 	float: left;
-	margin-right:60px;
-	margin-top:-20px;
-	font-size:16px;
-	background-repeat:no-repeat;
-}
-.public-footer .footer-col p{
-	color:#fff;
-	text-align:left;
+	margin-right: 60px;
+	margin-top: -20px;
+	font-size: 16px;
+	background-repeat: no-repeat;
 }
 
-.public-footer .footer-col .footer-img{
-	margin-top:-24px;
+.public-footer .footer-col p {
+	color: #fff;
+	text-align: left;
 }
 
-.public-footer .footer-col a{
-	color:#fff;
+.public-footer .footer-col .footer-img {
+	margin-left: 840px;
+	margin-top: -140px;
 }
 
-.public-footer .footer-col:last-child{
-	margin-right:0;
-}
+.public-footer .footer-col a { color: #fff; }
 
-.public-footer .copyright{
-	float:left;
-	margin-top:15px;
-	margin-left:420px;
-	font-size:16px;
-	text-align:center;
-	color:#fff;
-	}
+.public-footer .footer-col:last-child { margin-right: 0; }
+
+.public-footer .copyright {
+	float: left;
+	margin-top: 30px;
+	margin-left: -80px;
+	font-size: 16px;
+	text-align: center;
+	color: #fff;
+}
